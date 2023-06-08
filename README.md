@@ -1,0 +1,2 @@
+# Blender_honeycomb
+Blenderでフォームハニカムサンドイッチパネルのモデルを作るpythonマクロ
